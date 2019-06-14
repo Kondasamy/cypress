@@ -71,7 +71,7 @@
     "eventsource": "1.0.7",
     "express-session": "1.16.1",
     "express-useragent": "1.0.12",
-    "https-proxy-agent": "1.0.0",
+    "https-proxy-agent": "2.2.0",
     "inquirer": "3.3.0",
     "istanbul": "0.4.5",
     "mocked-env": "1.2.4",
